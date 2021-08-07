@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1628260807 source:c:\users\sankalpa\desktop\dice-main\main.cpp
+	"Header.h"
+	"Model.h"
+	"LoadTexture.h"
+	"Dice.h"
+
+1628062029 c:\users\sankalpa\desktop\dice-main\include\header.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<GL/glext.h>
+	<math.h>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<iostream>
+
+1628062029 c:\users\sankalpa\desktop\dice-main\include\model.h
+	"Header.h"
+
+1627925166 c:\users\sankalpa\desktop\dice-main\include\loadtexture.h
+	<vector>
+	<fstream>
+	<iostream>
+
+1627925166 c:\users\sankalpa\desktop\dice-main\include\dice.h
+	<vector>
+	<GL/glut.h>
+	<cstdlib>
+	"LoadTexture.h"
+	"dice_coord.h"
+
+1627925166 c:\users\sankalpa\desktop\dice-main\include\dice_coord.h
+
+1628260861 source:c:\users\sankalpa\desktop\dice-main\src\dice.cpp
+	"Dice.h"
+
+1628260924 source:c:\users\sankalpa\desktop\dice-main\src\loadtexture.cpp
+	"LoadTexture.h"
+
+1628261345 source:c:\users\sankalpa\desktop\dice-main\src\model.cpp
+	"Model.h"
+
